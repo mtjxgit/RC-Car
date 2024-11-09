@@ -8,7 +8,7 @@ This project is a Bluetooth remote-controlled car built with an STM32F411 microc
 - **Motor Driver**: L293D
 - **Bluetooth Module**: HC-05
 - **IR Sensor**: Obstacle detection
-- **Car Chassis and Motors**: Custom chassis, designed in AutoCAD and 3D printed
+- **Car Chassis and Motors**: Custom chassis, designed in AutoCAD and Laser Cut
 - **Android App**: Remote control interface
 
 ## **Features**
