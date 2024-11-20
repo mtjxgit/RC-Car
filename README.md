@@ -1,5 +1,9 @@
 # **Bluetooth Remote-Controlled Car Project**
 
+![image](https://github.com/user-attachments/assets/233ae38b-8d68-4608-9e1a-4e6500d16d72)
+
+
+
 ## Project Overview
 This project is a Bluetooth remote-controlled car built with an STM32F411 microcontroller. It allows users to control the car via an Android app using Bluetooth connectivity. The car integrates essential components for motor control, obstacle detection, and wireless communication, along with a custom-designed chassis created in AutoCAD and printed with a 3D printer.
 
